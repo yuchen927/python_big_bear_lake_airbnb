@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="hhttps://www.bigbear.com/imager/s3_us-west-1_amazonaws_com/big-bear/images/Scenic-Snow/89xVzXp1_d7439eaa25498c77bfbbdcd092d7d67c.jpeg" width="700">
+<img src="https://www.bigbear.com/imager/s3_us-west-1_amazonaws_com/big-bear/images/Scenic-Snow/89xVzXp1_d7439eaa25498c77bfbbdcd092d7d67c.jpeg" width="700">
 
 
 Analyze Big Bear Lake's airbnb data:
