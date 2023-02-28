@@ -33,3 +33,4 @@ Analyze Big Bear Lake's airbnb data:
 * [Airbnb Analysis, Visualization and Prediction](https://www.kaggle.com/code/chirag9073/airbnb-analysis-visualization-and-prediction)
 * [Python Exploratory Data Analysis (EDA) on NYC Airbnb](https://medium.com/analytics-vidhya/python-exploratory-data-analysis-eda-on-nyc-airbnb-cbeabd622e30)
 * [How to Get and Analyze Data for Your Airbnb Market in Python](https://levelup.gitconnected.com/how-to-get-and-analyze-data-for-your-airbnb-market-in-python-37ffeb0c2d16?gi=5c3400dc7593)
+* [Airbnb Scraper](https://apify.com/dtrungtin/airbnb-scraper/input-schema)
